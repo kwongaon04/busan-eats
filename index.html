@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>BUSAN EATS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- Bootstrap CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      background: #f7f9fc;
+      font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+    }
+    header {
+      background: linear-gradient(135deg, #1e90ff, #00c9a7);
+      color: white;
+      padding: 70px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-weight: 800;
+      letter-spacing: 1px;
+    }
+    header p {
+      opacity: 0.9;
+    }
+    .card {
+      border: none;
+      border-radius: 14px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    }
+    .badge {
+      font-weight: 500;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #777;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <p class="mt-2">파이썬으로 수집·가공한 부산 지하철역 주변 맛집 데이터</p>
+</header>
+  <a class="btn btn-light btn-lg mt-3" href="about.html">프로젝트 소개 보기</a>
+  <h1>BUSAN EATS</h1>
+
+<main class="container my-5">
+
+  <!-- 검색 영역 -->
+  <div class="row g-2 mb-4">
+    <div class="col-md-4">
+      <input id="q" class="form-control form-control-lg" placeholder="검색: 맛집명 / 메뉴 / 주소">
+    </div>
+    <div class="col-md-3">
+      <select id="station" class="form-select form-select-lg">
+        <option value="">역 전체</option>
+      </select>
+    </div>
+    <div class="col-md-3">
+      <select id="category" class="form-select form-select-lg">
+        <option value="">구분 전체</option>
+      </select>
+    </div>
+    <div class="col-md-2 d-grid">
+      <button id="btn" class="btn btn-primary btn-lg">검색</button>
+    </div>
+  </div>
+
+  <p id="count" class="text-muted mb-3"></p>
+
+  <!-- 카드 영역 -->
+  <div id="cards" class="row g-3"></div>
+
+</main>
+
+<footer>
+  BUSAN EATS · Python Data Project
+</footer>
+
+<script>
+<script>
+let ALL = [];
+
+const $ = (id) => document.getElementById(id);
+
+function norm(v){
+  return (v ?? "").toString().trim();
+}
+function uniq(arr){
+  return [...new Set(arr)].filter(Boolean).sort((a,b)=>a.localeCompare(b,'ko'));
+}
+
+function render(items){
+  const countEl = $("count");
+  if (countEl) countEl.innerText = `검색 결과 ${items.length}개 (최대 60개 표시)`;
+
+  const wrap = $("cards");
+  if (!wrap) return;
+
+  wrap.innerHTML = items.slice(0, 60).map(x => `
+    <div class="col-md-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">${x.name || "이름 없음"}</h5>
+
+          <div class="mb-2">
+            ${x.category ? `<span class="badge bg-secondary">${x.category}</span>` : ""}
+          </div>
+
+          <div class="text-muted mb-2">
+            📍 ${x.station || ""} ${x.exit ? `(${x.exit}출구)` : ""}
+          </div>
+
+          ${x.menu ? `<div>🍽️ <b>대표메뉴</b> ${x.menu}</div>` : ""}
+          ${x.address ? `<div class="small text-muted mt-1">${x.address}</div>` : ""}
+          ${x.phone ? `<div class="small mt-1">☎ ${x.phone}</div>` : ""}
+        </div>
+      </div>
+    </div>
+  `).join("");
+}
+
+function apply(){
+  const q = norm($("q")?.value).toLowerCase();
+  const station = norm($("station")?.value);
+  const category = norm($("category")?.value);
+
+  let items = ALL;
+
+  // 역/구분 필터
+  if (station) items = items.filter(x => x.station === station);
+  if (category) items = items.filter(x => x.category === category);
+
+  // 검색어(맛집명/메뉴/주소)
+  if (q){
+    items = items.filter(x => {
+      const name = (x.name || "").toLowerCase();
+      const menu = (x.menu || "").toLowerCase();
+      const addr = (x.address || "").toLowerCase();
+      return name.includes(q) || menu.includes(q) || addr.includes(q);
+    });
+  }
+
+  render(items);
+}
+
+function wire(){
+  // 버튼 클릭 검색
+  $("btn")?.addEventListener("click", apply);
+
+  // 엔터 검색
+  $("q")?.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") apply();
+  });
+
+  // 입력할 때마다 자동 검색(원치 않으면 이 줄 삭제)
+  $("q")?.addEventListener("input", apply);
+
+  // 필터 바꾸면 자동 검색
+  $("station")?.addEventListener("change", apply);
+  $("category")?.addEventListener("change", apply);
+}
+
+async function init(){
+  // ✅ 경로는 이걸로 고정(실패 제일 적음)
+  const res = await fetch("data/restaurants.json", { cache: "no-store" });
+  const raw = await res.json();
+
+  // ✅ 공백/탭 때문에 검색 안 되는 거 방지: 전부 trim해서 통일
+  ALL = raw.map(x => ({
+    line: norm(x.line),
+    station: norm(x.station),
+    name: norm(x.name),
+    category: norm(x.category),
+    menu: norm(x.menu),
+    address: norm(x.address),
+    phone: norm(x.phone),
+    exit: norm(x.exit),
+  }));
+
+  // 옵션 채우기
+  const stations = uniq(ALL.map(x => x.station));
+  const categories = uniq(ALL.map(x => x.category));
+
+  if ($("station")){
+    $("station").innerHTML = `<option value="">역 전체</option>` +
+      stations.map(s => `<option value="${s}">${s}</option>`).join("");
+  }
+  if ($("category")){
+    $("category").innerHTML = `<option value="">구분 전체</option>` +
+      categories.map(c => `<option value="${c}">${c}</option>`).join("");
+  }
+
+  wire();
+  render(ALL);
+}
+
+init().catch(err => {
+  console.error(err);
+  const countEl = $("count");
+  if (countEl) countEl.innerText = "데이터를 불러오지 못했습니다. 서버 실행/경로를 확인하세요.";
+});
+</script>
+
+</script>
+
+</body>
+</html>

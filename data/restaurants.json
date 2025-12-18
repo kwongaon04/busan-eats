@@ -1,0 +1,8402 @@
+[
+  {
+    "line": "",
+    "station": "가야역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-892-6565",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-327-6651",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-324-0816",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불구이",
+    "address": "",
+    "phone": "051-313-5252",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "한식",
+    "menu": "순대국밥",
+    "address": "",
+    "phone": "051-313-5128",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "한식",
+    "menu": "양지탕",
+    "address": "",
+    "phone": "051-317-3677",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥 코스요리",
+    "address": "",
+    "phone": "051-312-5588",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "감전역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 숯불구이",
+    "address": "",
+    "phone": "051-341-6277",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "강서구청역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-831-7562",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "개금역",
+    "name": "",
+    "category": "한식",
+    "menu": "찜갈비",
+    "address": "",
+    "phone": "051-896-4008",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "개금역",
+    "name": "",
+    "category": "중식",
+    "menu": "짜장면 탕수육",
+    "address": "",
+    "phone": "051-893-8887",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "개금역",
+    "name": "",
+    "category": "한식",
+    "menu": "죽 칼국수 수육 전",
+    "address": "",
+    "phone": "051-891-1588",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "개금역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 등심",
+    "address": "",
+    "phone": "051-896-5388",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "개금역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-894-9996",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-502-5517",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-507-1183",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-504-1015",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "한식",
+    "menu": "부대찌개",
+    "address": "",
+    "phone": "051-501-1388",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-507-9233",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-507-4545",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜수육",
+    "address": "",
+    "phone": "051-502-4354",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "중식",
+    "menu": "중식",
+    "address": "",
+    "phone": "051-507-9555",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "거제역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리바베큐삼겹",
+    "address": "",
+    "phone": "051-864-9797",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면",
+    "address": "",
+    "phone": "051-612-0025",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-623-4592",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "한식",
+    "menu": "굴국밥",
+    "address": "",
+    "phone": "051-627-9985",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "한식",
+    "menu": "김치찜 김치찌개",
+    "address": "",
+    "phone": "051-627-2703",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "한식",
+    "menu": "순대전골 국밥",
+    "address": "",
+    "phone": "051-612-5952",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "양식",
+    "menu": "치킨",
+    "address": "",
+    "phone": "051-625-9202",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "양식",
+    "menu": "치킨",
+    "address": "",
+    "phone": "051-623-0170",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "한식",
+    "menu": "김치 매실두루치기 김치찜",
+    "address": "",
+    "phone": "051-612-3300",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "경성대부경대역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥 수육백반",
+    "address": "",
+    "phone": "051-621-0045",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "대구탕",
+    "address": "",
+    "phone": "051-757-7733",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-751-1500",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-753-2800",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회 물회",
+    "address": "",
+    "phone": "051-752-5732",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-758-7172",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-759-7170",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "한식코스",
+    "address": "",
+    "phone": "051-751-5534",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-751-5250",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-758-2744",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-753-2811",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "중식",
+    "menu": "유산슬 오향장육",
+    "address": "",
+    "phone": "051-751-3242",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-757-5666",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-753-8881",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기",
+    "address": "",
+    "phone": "051-751-1024",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "광안역",
+    "name": "",
+    "category": "한식",
+    "menu": "굴국밥대구탕밀면",
+    "address": "",
+    "phone": "051-756-4111",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-294-0777",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-203-2080",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "복어요리",
+    "address": "",
+    "phone": "051-205-8892",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-291-2422",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지전골",
+    "address": "",
+    "phone": "051-202-1985",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-202-7890",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-291-5193",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-291-4880",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-207-8879",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-206-9600",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비살",
+    "address": "",
+    "phone": "051-205-9997",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-271-7652",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "중식",
+    "menu": "탕수육",
+    "address": "",
+    "phone": "051-291-4085",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-646-2000",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "괴정역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-207-9292",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "교대역",
+    "name": "",
+    "category": "일식",
+    "menu": "돈까스우동",
+    "address": "",
+    "phone": "051-852-8887",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "교대역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-501-5507",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "구남역",
+    "name": "",
+    "category": "한식",
+    "menu": "쌈밥",
+    "address": "",
+    "phone": "051-332-1006",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "구남역",
+    "name": "",
+    "category": "한식",
+    "menu": "아귀찜 해물찜",
+    "address": "",
+    "phone": "051-343-4949",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "구서역",
+    "name": "",
+    "category": "한식",
+    "menu": "민물장어",
+    "address": "",
+    "phone": "051-517-4114",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "구서역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-518-9520",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "구서역",
+    "name": "",
+    "category": "한식",
+    "menu": "보쌈",
+    "address": "",
+    "phone": "051-515-2106",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "구서역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-513-9960",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "구서역",
+    "name": "",
+    "category": "한식",
+    "menu": "순대국밥",
+    "address": "",
+    "phone": "051-515-6393",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "구서역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-516-0125",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "구포역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-341-1991",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "구포역",
+    "name": "",
+    "category": "한식",
+    "menu": "돌솔밥",
+    "address": "",
+    "phone": "051-341-0033",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "국제금융센터부산은행역",
+    "name": "",
+    "category": "한식",
+    "menu": "소숯불갈비 돼지갈비",
+    "address": "",
+    "phone": "051-636-0006",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "국제금융센터부산은행역",
+    "name": "",
+    "category": "한식",
+    "menu": "동태탕동태찜",
+    "address": "",
+    "phone": "051-637-8858",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "국제금융센터부산은행역",
+    "name": "",
+    "category": "일식",
+    "menu": "스시 초밥",
+    "address": "",
+    "phone": "070-7514-1085",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "국제금융센터부산은행역",
+    "name": "",
+    "category": "한식",
+    "menu": "물회",
+    "address": "",
+    "phone": "051-634-9232",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "국제금융센터부산은행역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-639-7999",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-751-7658",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "일식",
+    "menu": "돈까스",
+    "address": "",
+    "phone": "051-611-8244",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "대구탕",
+    "address": "",
+    "phone": "051-626-3330",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-758-8700",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "중식",
+    "menu": "중식코스요리",
+    "address": "",
+    "phone": "051-621-5600",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-755-2678",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "일식",
+    "menu": "우동",
+    "address": "",
+    "phone": "051-611-5711",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물찜",
+    "address": "",
+    "phone": "051-753-2255",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-625-9292",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "김치찌개",
+    "address": "",
+    "phone": "051-625-0092",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-623-2881",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-761-0396",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "한식",
+    "menu": "생선구이",
+    "address": "",
+    "phone": "051-753-3515",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "금련산역",
+    "name": "",
+    "category": "베트남식",
+    "menu": "쌀국수",
+    "address": "",
+    "phone": "051-752-0420",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금사역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-529-7224",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "금사역",
+    "name": "",
+    "category": "한식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-525-2432",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낙민역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-555-2151",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낙민역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-553-6028",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낙민역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-556-8245",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-517-9292",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-514-8630",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-582-1411",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "국수",
+    "address": "",
+    "phone": "051-513-8228",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "녹차보쌈",
+    "address": "",
+    "phone": "051-517-1108",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "연잎정식",
+    "address": "",
+    "phone": "051-513-1315",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비",
+    "address": "",
+    "phone": "051-517-7892",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "남산역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-517-1003",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "남산정역",
+    "name": "",
+    "category": "일식",
+    "menu": "월남쌈",
+    "address": "",
+    "phone": "051-334-4149",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-626-2017",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-625-4200",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "한식",
+    "menu": "부대찌게 전골",
+    "address": "",
+    "phone": "051-621-8080",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선초밥",
+    "address": "",
+    "phone": "051-621-5050",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-621-3989",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-626-4158",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "한식",
+    "menu": "양곱창",
+    "address": "",
+    "phone": "051-622-6727",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "중식",
+    "menu": "탕수육",
+    "address": "",
+    "phone": "051-611-6686",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "양식",
+    "menu": "스테이크",
+    "address": "",
+    "phone": "051-623-9781",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "일식",
+    "menu": "일식코스요리",
+    "address": "",
+    "phone": "051-626-6100",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남천역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-628-3935",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕 낙지볶음",
+    "address": "",
+    "phone": "051-404-5263",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-405-9523",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-404-0451",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "불고기 낙지전골",
+    "address": "",
+    "phone": "051-405-3617",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-415-5288",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-403-4141",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "양식",
+    "menu": "돈가스 레스토랑",
+    "address": "",
+    "phone": "051-405-3690",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-405-1101",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불구이 샤브샤브",
+    "address": "",
+    "phone": "051-404-9292",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "물회",
+    "address": "",
+    "phone": "051-405-9077",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "양념갈비 살치살",
+    "address": "",
+    "phone": "051-404-5000",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비 왕갈비",
+    "address": "",
+    "phone": "051-403-5551",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-405-5050",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "대통밥 대통보쌈",
+    "address": "",
+    "phone": "051-403-0026",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "불고기",
+    "address": "",
+    "phone": "051-416-7570",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "보쌈",
+    "address": "",
+    "phone": "051-416-2342",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기버섯전골",
+    "address": "",
+    "phone": "051-417-4477",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비탕 영양돌솥밥",
+    "address": "",
+    "phone": "051-417-4004",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-413-0495",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "생선구이",
+    "address": "",
+    "phone": "051-417-5693",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-412-7892",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-416-0567",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비 생고기",
+    "address": "",
+    "phone": "051-413-9277",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-416-3221",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-415-3230",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-413-1700",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "물회",
+    "address": "",
+    "phone": "051-413-7900",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "쌈밥",
+    "address": "",
+    "phone": "051-415-4453",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-418-1410",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-418-0908",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "일식",
+    "menu": "갈치국 자리돔물회",
+    "address": "",
+    "phone": "051-417-0227",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-405-9918",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-405-5392",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "생고기 양념고기",
+    "address": "",
+    "phone": "051-416-4883",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지고기 소고기",
+    "address": "",
+    "phone": "051-403-1666",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "양식",
+    "menu": "바비큐",
+    "address": "",
+    "phone": "051-403-6688",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "중식",
+    "menu": "짬뽕",
+    "address": "",
+    "phone": "051-405-2992",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "암소갈비",
+    "address": "",
+    "phone": "051-404-5999",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "조개구이 생선회",
+    "address": "",
+    "phone": "051-404-3392",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기구이",
+    "address": "",
+    "phone": "051-405-3106",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "생선구이 생선조림 선어회",
+    "address": "",
+    "phone": "051-246-7998",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-257-0701",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰탕 갈비탕",
+    "address": "",
+    "phone": "051-245-3950",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-246-6471",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지복음",
+    "address": "",
+    "phone": "051-246-0228",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-245-7370",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "남포역",
+    "name": "",
+    "category": "한식",
+    "menu": "꼼장어",
+    "address": "",
+    "phone": "051-463-5888",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-261-1718",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "양식",
+    "menu": "스테이크",
+    "address": "",
+    "phone": "051-261-3483",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우생고기",
+    "address": "",
+    "phone": "051-265-4555",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-265-4555",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-262-1123",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어",
+    "address": "",
+    "phone": "051-261-5300",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "중식",
+    "menu": "탕수육",
+    "address": "",
+    "phone": "051-262-4466",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-264-2020",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "낫개역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-264-9292",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "냉정역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-316-9106",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "냉정역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-325-9292",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "냉정역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브 월남쌈",
+    "address": "",
+    "phone": "051-311-4690",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "냉정역",
+    "name": "",
+    "category": "한식",
+    "menu": "닭갈비",
+    "address": "",
+    "phone": "051-312-9233",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "노포역",
+    "name": "",
+    "category": "한식",
+    "menu": "경양식",
+    "address": "",
+    "phone": "051-508-4582",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "다대포항역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-208-0637",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "다대포항역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-266-2292",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "다대포항역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-266-1770",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "다대포항역",
+    "name": "",
+    "category": "양식",
+    "menu": "양식 전문",
+    "address": "",
+    "phone": "051-266-2198",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "다대포항역",
+    "name": "",
+    "category": "한식",
+    "menu": "곱창전골 구아 등",
+    "address": "",
+    "phone": "051-266-0241",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-264-3296",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-266-5655",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-266-2700",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-263-2020",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "꼬막정식",
+    "address": "",
+    "phone": "051-261-7972",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "미역국",
+    "address": "",
+    "phone": "051-263-7777",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "수제어묵",
+    "address": "",
+    "phone": "051-264-2395",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "다대포해수욕장역",
+    "name": "",
+    "category": "한식",
+    "menu": "짬뽕",
+    "address": "",
+    "phone": "051-266-6266",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "당리역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-204-7400",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "당리역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-201-3392",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "당리역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-206-4228",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "당리역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-202-9939",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "당리역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-207-1330",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "대연역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-624-5684",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "대연역",
+    "name": "",
+    "category": "한식",
+    "menu": "닭요리",
+    "address": "",
+    "phone": "051-636-2834",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "대연역",
+    "name": "",
+    "category": "양식",
+    "menu": "돈까스",
+    "address": "",
+    "phone": "051-628-0230",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "대연역",
+    "name": "",
+    "category": "한식",
+    "menu": "선지국",
+    "address": "",
+    "phone": "051-627-6513",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "대연역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-623-4139",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "대연역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-621-0334",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "대티역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-203-4425",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "덕천역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-334-5454",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "덕천역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-338-1197",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "덕천역",
+    "name": "",
+    "category": "한식",
+    "menu": "불고기",
+    "address": "",
+    "phone": "051-336-7700",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "덕천역",
+    "name": "",
+    "category": "한식",
+    "menu": "스테이크",
+    "address": "",
+    "phone": "051-342-1997",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "덕천역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-363-8890",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "덕포역",
+    "name": "",
+    "category": "한식",
+    "menu": "왕갈비",
+    "address": "",
+    "phone": "051-303-3085",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "덕포역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-301-4445",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "덕포역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-303-7314",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "덕포역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-303-6256",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "양곱창",
+    "address": "",
+    "phone": "051-243-6973",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-244-6266",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지전골",
+    "address": "",
+    "phone": "051-231-1076",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "중식",
+    "menu": "중식",
+    "address": "",
+    "phone": "051-242-1552",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-242-6876",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-242-5788",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-245-4494",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "양식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-242-4311",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "탕수육",
+    "address": "",
+    "phone": "051-247-6903",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "전복구이",
+    "address": "",
+    "phone": "051-256-6664",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동대신역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-253-6661",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "양념갈비",
+    "address": "",
+    "phone": "051-552-0127",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-555-6819",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈치요리",
+    "address": "",
+    "phone": "051-553-4211",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-555-2464",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "육류 고기요리",
+    "address": "",
+    "phone": "051-556-1682",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥셋트",
+    "address": "",
+    "phone": "051-553-0303",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-552-3651",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-553-5769",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-552-8418",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "양념갈비",
+    "address": "",
+    "phone": "051-506-6666",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "동래역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-505-0212",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "동매역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-206-9233",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "동매역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-201-2089",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕 / 토종닭백숙 / 찜닭",
+    "address": "",
+    "phone": "051-900-9933",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕 해물찜 아구찜 전복구이",
+    "address": "",
+    "phone": "051-741-5352",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "한식",
+    "menu": "배비장 보쌈 모듬 보쌈",
+    "address": "",
+    "phone": "051-742-7755",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "일식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-746-7466",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 안창살. 돼지 삼겹살",
+    "address": "",
+    "phone": "051-746-9934",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식 샤브샤브 간장게장 정식",
+    "address": "",
+    "phone": "051-740-5667",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동백역",
+    "name": "",
+    "category": "브런치",
+    "menu": "와플",
+    "address": "",
+    "phone": "051-987-8526",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "동부산대학역",
+    "name": "",
+    "category": "일식",
+    "menu": "월남쌈 샤브",
+    "address": "",
+    "phone": "051-542-0333",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동부산대학역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불 그릴 양념 오리 구이",
+    "address": "",
+    "phone": "051-543-3437",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동부산대학역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-543-3330",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-897-6858",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "양식",
+    "menu": "차돌양지쌀국수",
+    "address": "",
+    "phone": "051-231-7970",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "제육 찌개류",
+    "address": "",
+    "phone": "051-633-3447",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "양념갈비",
+    "address": "",
+    "phone": "051-867-2000",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-894-5522",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-502-9116",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-891-4458",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비 생삼겹",
+    "address": "",
+    "phone": "051-895-2282",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-898-0505",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "동의대역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회 초밥",
+    "address": "",
+    "phone": "051-809-8077",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "두실역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-518-3298",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "두실역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물칼국수",
+    "address": "",
+    "phone": "051-513-3395",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "두실역",
+    "name": "",
+    "category": "중식",
+    "menu": "중화요리",
+    "address": "",
+    "phone": "051-514-1188",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "두실역",
+    "name": "",
+    "category": "한식",
+    "menu": "생 갈 비",
+    "address": "",
+    "phone": "051-513-2100",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "두실역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-514-8216",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "두실역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-517-9922",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "만덕역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-332-6682",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "만덕역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리",
+    "address": "",
+    "phone": "051-333-4277",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "만덕역",
+    "name": "",
+    "category": "중식",
+    "menu": "차돌박이짬뽕",
+    "address": "",
+    "phone": "051-343-3477",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-754-3789",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비탕",
+    "address": "",
+    "phone": "051-752-0031",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-755-2100",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-861-4188",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기 모듬구이",
+    "address": "",
+    "phone": "051-753-7499",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-761-0002",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "우삼겹",
+    "address": "",
+    "phone": "051-754-8861",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "쭈꾸미볶음",
+    "address": "",
+    "phone": "051-752-9291",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "망미역",
+    "name": "",
+    "category": "한식",
+    "menu": "코다리찜",
+    "address": "",
+    "phone": "051-752-0877",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-557-1667",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-556-1232",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "일식",
+    "menu": "돈가스",
+    "address": "",
+    "phone": "051-553-5055",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "일식",
+    "menu": "도다리 볼락 회 구이",
+    "address": "",
+    "phone": "051-552-3998",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-556-5880",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-508-0050",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "한식",
+    "menu": "스테이크",
+    "address": "",
+    "phone": "051-558-5041",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "한식",
+    "menu": "수제만두",
+    "address": "",
+    "phone": "051-553-3070",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "명륜역",
+    "name": "",
+    "category": "한식",
+    "menu": "뽈찜",
+    "address": "",
+    "phone": "051-556-6006",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "명장역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-528-7055",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "명장역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕뼈찜해물뼈찜",
+    "address": "",
+    "phone": "051-527-6258",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "명장역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기",
+    "address": "",
+    "phone": "051-531-2040",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "명장역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-959-4753",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-301-5321",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-311-3558",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-301-1423",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-301-5253",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-302-2343",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-315-5949",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비 목살",
+    "address": "",
+    "phone": "051-303-6655",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-315-0755",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "육회비빔밥",
+    "address": "",
+    "phone": "051-304-7733",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-301-7200",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "옻닭",
+    "address": "",
+    "phone": "051-304-5575",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "모라역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-311-0889",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "못골역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비탕",
+    "address": "",
+    "phone": "051-625-4043",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "못골역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-647-1477",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "못골역",
+    "name": "",
+    "category": "한식",
+    "menu": "메기매운탕김치찌개",
+    "address": "",
+    "phone": "051-622-0274",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "문헌역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선초밥",
+    "address": "",
+    "phone": "051-633-8184",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문헌역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-631-7171",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문헌역",
+    "name": "",
+    "category": "한식",
+    "menu": "돌솥밥",
+    "address": "",
+    "phone": "051-647-0147",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문헌역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-631-7171",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문헌역",
+    "name": "",
+    "category": "한식",
+    "menu": "돌솥밥",
+    "address": "",
+    "phone": "051-647-0147",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문현역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선초밥",
+    "address": "",
+    "phone": "051-633-8184",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문현역",
+    "name": "",
+    "category": "한식",
+    "menu": "곱창",
+    "address": "",
+    "phone": "051-637-9495",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문현역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면",
+    "address": "",
+    "phone": "051-636-8009",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "문현역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-636-3997",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "문현역",
+    "name": "",
+    "category": "일식",
+    "menu": "돈가스",
+    "address": "",
+    "phone": "051-636-0802",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "문현역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-645-0478",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "물만골역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-863-6773",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "물만골역",
+    "name": "",
+    "category": "중식",
+    "menu": "짬뽕 짜장 탕수육",
+    "address": "",
+    "phone": "051-852-8991",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "물만골역",
+    "name": "",
+    "category": "양식",
+    "menu": "돈까스 오므라이스",
+    "address": "",
+    "phone": "051-853-0859",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부요리",
+    "address": "",
+    "phone": "051-504-3520",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-503-5222",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살 돼지갈비",
+    "address": "",
+    "phone": "051-506-7888",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살돼지갈비",
+    "address": "",
+    "phone": "051-505-0388",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이장어탕",
+    "address": "",
+    "phone": "051-502-3323",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "굴국밥",
+    "address": "",
+    "phone": "051-505-7997",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "유황훈제오리",
+    "address": "",
+    "phone": "051-558-3399",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부찌개",
+    "address": "",
+    "phone": "051-553-1270",
+    "exit": "13"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-505-8862",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "미남역",
+    "name": "",
+    "category": "한식",
+    "menu": "대구탕",
+    "address": "",
+    "phone": "051-504-3900",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "민락역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-755-0577",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "민락역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-753-5866",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "민락역",
+    "name": "",
+    "category": "중식",
+    "menu": "코스요리",
+    "address": "",
+    "phone": "051-751-0901",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "반여농산물시장역",
+    "name": "",
+    "category": "한식",
+    "menu": "국밥순대수육",
+    "address": "",
+    "phone": "051-523-0468",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "반여농산물시장역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜 아구수육",
+    "address": "",
+    "phone": "051-782-6969",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "반여농산물시장역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-523-2867",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "배산",
+    "name": "",
+    "category": "한식",
+    "menu": "국밥",
+    "address": "",
+    "phone": "051-897-3900",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "배산",
+    "name": "",
+    "category": "한식",
+    "menu": "오리불고기 돌솥밥",
+    "address": "",
+    "phone": "051-853-1977",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "범내골역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-803-2427",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범내골역",
+    "name": "",
+    "category": "한식",
+    "menu": "스테이크 샐러드바",
+    "address": "",
+    "phone": "051-817-1997",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "범내골역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-632-2008",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범내골역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-634-9119",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "범내골역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물 생선요리",
+    "address": "",
+    "phone": "051-631-7404",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "중식",
+    "menu": "중화요리",
+    "address": "",
+    "phone": "051-517-4543",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비",
+    "address": "",
+    "phone": "051-512-0522",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "일식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-583-1411",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-516-1506",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 초 밥",
+    "address": "",
+    "phone": "051-517-6717",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-508-3020",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-508-4333",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-508-4258",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-508-3938",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-508-0666",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-508-4477",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-508-5353",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "범어사역",
+    "name": "",
+    "category": "한식",
+    "menu": "조개전골",
+    "address": "",
+    "phone": "051-517-8009",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-638-3317",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "쭈꾸미두루치기",
+    "address": "",
+    "phone": "051-635-7632",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-646-1582",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "수육전골",
+    "address": "",
+    "phone": "051-633-4566",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-632-5005",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-644-5544",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-633-2229",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-643-8000",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-642-1041",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "범일역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-632-7770",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "벡스코역",
+    "name": "",
+    "category": "한식",
+    "menu": "황토통오리구이유황통오리구이",
+    "address": "",
+    "phone": "051-746-8998",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "벡스코역",
+    "name": "",
+    "category": "한식",
+    "menu": "양념갈비",
+    "address": "",
+    "phone": "051-743-3338",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산대역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부돈까스",
+    "address": "",
+    "phone": "051-513-3520",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "부산대역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면갈비",
+    "address": "",
+    "phone": "051-514-3381",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산대역",
+    "name": "",
+    "category": "중식",
+    "menu": "중화요리",
+    "address": "",
+    "phone": "051-554-8000",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산대역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비",
+    "address": "",
+    "phone": "051-582-5392",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "부산대역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-583-8541",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "부산대역",
+    "name": "",
+    "category": "한식",
+    "menu": "찜닭",
+    "address": "",
+    "phone": "051-582-3345",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면",
+    "address": "",
+    "phone": "051-467-5398",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-463-6360",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "한식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-462-6868",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-466-3800",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "한식",
+    "menu": "국밥",
+    "address": "",
+    "phone": "051-465-0468",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "한식",
+    "menu": "굴전복",
+    "address": "",
+    "phone": "070-7347-0339",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부산역",
+    "name": "",
+    "category": "한식",
+    "menu": "국수",
+    "address": "",
+    "phone": "051-462-1575",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "부산진역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-465-4650",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "부산진역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-464-9777",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불구이",
+    "address": "",
+    "phone": "051-806-8878",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비찜정식",
+    "address": "",
+    "phone": "051-891-9136",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "백숙 삼계탕",
+    "address": "",
+    "phone": "051-816-2003",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비 구이",
+    "address": "",
+    "phone": "051-816-0007",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지 오리바베큐",
+    "address": "",
+    "phone": "051-817-3337",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-802-6699",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "부암역",
+    "name": "",
+    "category": "한식",
+    "menu": "뼈다귀해장국",
+    "address": "",
+    "phone": "051-817-6662",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "부전역",
+    "name": "",
+    "category": "한식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-811-2121",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부전역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-818-3779",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "부전역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-805-3330",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "부전역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-808-1238",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕 갈비탕",
+    "address": "",
+    "phone": "051-327-2127",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비살 안창살",
+    "address": "",
+    "phone": "051-322-1223",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-327-0044",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-322-1445",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-328-4140",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-317-2478",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-313-3328",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-324-8892",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살 돼지갈비",
+    "address": "",
+    "phone": "051-612-8085",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-327-3877",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사상역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-317-1200",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "사직역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕",
+    "address": "",
+    "phone": "051-505-0480",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사직역",
+    "name": "",
+    "category": "한식",
+    "menu": "육개장 충무김밥",
+    "address": "",
+    "phone": "051-502-1459",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "사직역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-502-6027",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "사직역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-502-0995",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사직역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지불고기",
+    "address": "",
+    "phone": "051-505-0049",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "사하역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-291-4841",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "서대신역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-248-5104",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-527-9191",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-525-5004",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "일식",
+    "menu": "회초밥",
+    "address": "",
+    "phone": "051-524-1877",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-527-6433",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "일식",
+    "menu": "회초밥",
+    "address": "",
+    "phone": "051-526-8488",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-527-1302",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서동역",
+    "name": "",
+    "category": "한식",
+    "menu": "동태찌게",
+    "address": "",
+    "phone": "051-525-0419",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-809-5455",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-806-9197",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육 만두",
+    "address": "",
+    "phone": "051-802-9168",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "김치국밥 콩나물국밥",
+    "address": "",
+    "phone": "051-807-6780",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰탕 설렁탕",
+    "address": "",
+    "phone": "051-809-0013",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지불고기 백반",
+    "address": "",
+    "phone": "051-805-8817",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-802-0456",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "양식",
+    "menu": "샐러드바",
+    "address": "",
+    "phone": "051-806-5498",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "스테이크",
+    "address": "",
+    "phone": "051-819-7801",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-804-4599",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-808-9191",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥 코스요리",
+    "address": "",
+    "phone": "051-806-1585",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰탕",
+    "address": "",
+    "phone": "051-816-3950",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕",
+    "address": "",
+    "phone": "051-808-4711",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-809-3305",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우",
+    "address": "",
+    "phone": "051-809-2100",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕",
+    "address": "",
+    "phone": "051-808-3325",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "육개장",
+    "address": "",
+    "phone": "051-802-5995",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-805-7330",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-805-6290",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-804-9649",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-807-9289",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "국밥",
+    "address": "",
+    "phone": "051-804-2277",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-819-6168",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-809-8659",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부",
+    "address": "",
+    "phone": "051-817-2737",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰탕 갈비탕",
+    "address": "",
+    "phone": "051-802-6915",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-804-3700",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕",
+    "address": "",
+    "phone": "051-809-8208",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 꽃등심",
+    "address": "",
+    "phone": "051-819-6677",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우",
+    "address": "",
+    "phone": "051-808-3800",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "돌솥밥",
+    "address": "",
+    "phone": "051-805-9191",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 쟁반자장",
+    "address": "",
+    "phone": "051-816-1649",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-805-5959",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "콩나물비빔밥 선지해장국",
+    "address": "",
+    "phone": "051-816-3480",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-818-9898",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-809-0190",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-802-0909",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-819-1323",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "중식",
+    "menu": "송이전복 등 중식전문",
+    "address": "",
+    "phone": "051-808-8847",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-808-4967",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "쌈밥정식 우동정식",
+    "address": "",
+    "phone": "051-819-8017",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "일본식돈가스",
+    "address": "",
+    "phone": "051-802-8331",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "회전초밥",
+    "address": "",
+    "phone": "051-810-3936",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-802-6941",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "연잎밥정식",
+    "address": "",
+    "phone": "051-808-2622",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-810-3927",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "비빔밥",
+    "address": "",
+    "phone": "051-805-8301",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "양식",
+    "menu": "스파게티",
+    "address": "",
+    "phone": "051-802-5800",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 돌솥밥",
+    "address": "",
+    "phone": "051-806-8602",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "보쌈셋트",
+    "address": "",
+    "phone": "051-803-0078",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살 돼지갈비",
+    "address": "",
+    "phone": "051-807-5555",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비전문",
+    "address": "",
+    "phone": "051-803-3850",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-891-3000",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-819-1688",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "멸치쌈밥 순두부",
+    "address": "",
+    "phone": "051-803-0121",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-806-2541",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-808-9995",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-805-3300",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-806-9191",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회 매운탕",
+    "address": "",
+    "phone": "051-819-0066",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-818-9289",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우꽃등심",
+    "address": "",
+    "phone": "051-805-0073",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "서면역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-802-0673",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "소생갈비 소양념갈비",
+    "address": "",
+    "phone": "051-781-3302",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "국밥",
+    "address": "",
+    "phone": "051-784-9200",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "옻닭민물메기탕민물장어구이",
+    "address": "",
+    "phone": "051-783-1476",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "복어 불고기복어탕",
+    "address": "",
+    "phone": "051-744-0105",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "고등어구이(찌개) 갈치구이(찌개)",
+    "address": "",
+    "phone": "051-905-9292",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "불고기(1인분) 생오리",
+    "address": "",
+    "phone": "051-784-9995",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "양곱창·양대창",
+    "address": "",
+    "phone": "051-782-0092",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비 (1인기준)소갈비",
+    "address": "",
+    "phone": "051-782-3662",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "중식",
+    "menu": "삼선 짜장 삼선 짬뽕",
+    "address": "",
+    "phone": "051-730-3905",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥 내장국밥",
+    "address": "",
+    "phone": "051-781-2722",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기",
+    "address": "",
+    "phone": "051-784-5522",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우불고기 쌈정식",
+    "address": "",
+    "phone": "051-730-3900",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "식단표 별 상이",
+    "address": "",
+    "phone": "051-920-2200",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-746-7888",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면 설렁탕",
+    "address": "",
+    "phone": "051-746-8429",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "패밀리 레스토랑",
+    "menu": "파스타 피자 스테이크",
+    "address": "",
+    "phone": "051-746-2223",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "베트남식",
+    "menu": "쌀국수 월남쌈",
+    "address": "",
+    "phone": "051-746-3359",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "베트남식",
+    "menu": "월남쌈 샤브샤브",
+    "address": "",
+    "phone": "051-747-7049",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-622-2800",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "센텀시티역",
+    "name": "",
+    "category": "일식",
+    "menu": "돈까스 덮밥",
+    "address": "",
+    "phone": "051-743-7787",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-552-9528",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-558-2240",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-552-3092",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 등심 갈비살",
+    "address": "",
+    "phone": "051-553-5989",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥 코스요리",
+    "address": "",
+    "phone": "051-557-0676",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-557-6380",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "토속밥상 한정식",
+    "address": "",
+    "phone": "051-554-1994",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-553-7700",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-554-6086",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "수안역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-556-2020",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-756-5300",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "양식",
+    "menu": "돈까스",
+    "address": "",
+    "phone": "051-757-8585",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지고기",
+    "address": "",
+    "phone": "051-755-5982",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "국수",
+    "address": "",
+    "phone": "051-752-5788",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "중식",
+    "menu": "중식당",
+    "address": "",
+    "phone": "051-753-9888",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "순대국밥",
+    "address": "",
+    "phone": "051-751-5455",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "종합분식",
+    "address": "",
+    "phone": "051-752-6655",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "간장게장",
+    "address": "",
+    "phone": "051-909-6100",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "양곱창",
+    "address": "",
+    "phone": "051-759-4192",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "순대",
+    "address": "",
+    "phone": "051-759-5847",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "닭발",
+    "address": "",
+    "phone": "051-865-8449",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-758-5046",
+    "exit": "17"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "곱창",
+    "address": "",
+    "phone": "051-923-4188",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "찌개",
+    "address": "",
+    "phone": "051-753-6466",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "일식",
+    "menu": "고동숙회",
+    "address": "",
+    "phone": "051-755-8169",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지요리",
+    "address": "",
+    "phone": "051-753-4515",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비탕",
+    "address": "",
+    "phone": "051-753-3789",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "분식",
+    "address": "",
+    "phone": "051-751-6527",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "수영역",
+    "name": "",
+    "category": "한식",
+    "menu": "가자미 조개 소고기 활전복 미역국",
+    "address": "",
+    "phone": "051-755-3344",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "수정역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지전골",
+    "address": "",
+    "phone": "051-336-8080",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "수정역",
+    "name": "",
+    "category": "한식",
+    "menu": "우삼겹",
+    "address": "",
+    "phone": "051-332-0808",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "숙등역",
+    "name": "",
+    "category": "일식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-332-7877",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "숙등역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-341-5533",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "숙등역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-334-8600",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "숙등역",
+    "name": "",
+    "category": "중식",
+    "menu": "중식",
+    "address": "",
+    "phone": "051-337-6344",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "시청역",
+    "name": "",
+    "category": "양식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-668-7777",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "시청역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-850-2313",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "시청역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-863-9911",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "시청역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-868-5292",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "시청역",
+    "name": "",
+    "category": "한식",
+    "menu": "메기탕",
+    "address": "",
+    "phone": "051-852-8085",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신장림역",
+    "name": "",
+    "category": "한식",
+    "menu": "보쌈",
+    "address": "",
+    "phone": "051-266-3030",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "신장림역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-262-0444",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "황태탕 황태구이",
+    "address": "",
+    "phone": "051-831-1311",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "복요리",
+    "address": "",
+    "phone": "051-832-0888",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-206-9686",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부돈까스",
+    "address": "",
+    "phone": "051-715-2200",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-263-4992",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-261-1821",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-263-9292",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-266-1023",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "해장국",
+    "address": "",
+    "phone": "051-261-9100",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "목황정",
+    "address": "",
+    "phone": "051-261-2669",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-262-7333",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-266-4400",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "해장국",
+    "address": "",
+    "phone": "051-292-3882",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면 전문점",
+    "address": "",
+    "phone": "051-261-9361",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-261-1804",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-261-3370",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-263-1600",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-262-0119",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "일식",
+    "menu": "회 덮밥 매운탕 등",
+    "address": "",
+    "phone": "051-263-0503",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-292-3345",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-201-3335",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-264-9293",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "신평역",
+    "name": "",
+    "category": "중식",
+    "menu": "짜장면 우동 등",
+    "address": "",
+    "phone": "051-204-8595",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-723-1717",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우돼지고기",
+    "address": "",
+    "phone": "051-722-8673",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "일식",
+    "menu": "회",
+    "address": "",
+    "phone": "051-721-2411",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-722-7780",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우",
+    "address": "",
+    "phone": "051-722-8090",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "복요리",
+    "address": "",
+    "phone": "051-722-2995",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-727-0454",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "복요리",
+    "address": "",
+    "phone": "051-721-1561",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "매운탕",
+    "address": "",
+    "phone": "051-727-0679",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "해장국",
+    "address": "",
+    "phone": "051-727-7955",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "중식",
+    "menu": "중국요리",
+    "address": "",
+    "phone": "051-727-3911",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "양식",
+    "menu": "경양식",
+    "address": "",
+    "phone": "051-728-3737",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우",
+    "address": "",
+    "phone": "051-721-5696",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우",
+    "address": "",
+    "phone": "051-721-8692",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "안평역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-721-8866",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "양정역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-866-0009",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "양정역",
+    "name": "",
+    "category": "한식",
+    "menu": "볏집삼겹살",
+    "address": "",
+    "phone": "051-865-3040",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "양정역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살 돼지갈비",
+    "address": "",
+    "phone": "051-852-8866",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "양정역",
+    "name": "",
+    "category": "한식",
+    "menu": "생삼겹살",
+    "address": "",
+    "phone": "051-864-0773",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "양정역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-852-6776",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "양정역",
+    "name": "",
+    "category": "한식",
+    "menu": "대패삼겹살",
+    "address": "",
+    "phone": "051-853-9284",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기",
+    "address": "",
+    "phone": "051-853-0801",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "일식",
+    "menu": "회초밥",
+    "address": "",
+    "phone": "051-868-0884",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-862-0398",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "일식",
+    "menu": "물회",
+    "address": "",
+    "phone": "051-863-5000",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우",
+    "address": "",
+    "phone": "051-852-9229",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-866-8008",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-861-0176",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "일식",
+    "menu": "회초밥",
+    "address": "",
+    "phone": "051-865-0160",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어구이",
+    "address": "",
+    "phone": "051-853-8892",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "보쌈",
+    "address": "",
+    "phone": "051-853-8005",
+    "exit": "17"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "일식",
+    "menu": "모듬회",
+    "address": "",
+    "phone": "051-868-6133",
+    "exit": "17"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "양식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-867-7600",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "일식",
+    "menu": "복어",
+    "address": "",
+    "phone": "051-863-4984",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "닭갈비",
+    "address": "",
+    "phone": "051-866-2008",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "일식",
+    "menu": "모듬회",
+    "address": "",
+    "phone": "051-864-3166",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-865-8017",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "대구탕",
+    "address": "",
+    "phone": "051-867-7611",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-851-2110",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비",
+    "address": "",
+    "phone": "051-864-2379",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-868-2903",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "중식",
+    "menu": "중화요리",
+    "address": "",
+    "phone": "051-865-7732",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "물회",
+    "address": "",
+    "phone": "051-866-0480",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "순대",
+    "address": "",
+    "phone": "051-852-2066",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "어탕국수",
+    "address": "",
+    "phone": "051-868-1756",
+    "exit": "17"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "김치찌개",
+    "address": "",
+    "phone": "051-851-0822",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "연산역",
+    "name": "",
+    "category": "한식",
+    "menu": "더덕삼겹살",
+    "address": "",
+    "phone": "051-867-9293",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "영산대역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥 수육 전골 순대",
+    "address": "",
+    "phone": "051-545-6655",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-522-1322",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "회초밥",
+    "address": "",
+    "phone": "051-518-4001",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지고기",
+    "address": "",
+    "phone": "051-515-5789",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-553-9771",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-555-3445",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-556-4600",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-554-1010",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-550-2451",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "회초밥",
+    "address": "",
+    "phone": "051-552-5567",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-556-7105",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰장어구이",
+    "address": "",
+    "phone": "051-552-5874",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-552-8100",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-553-3511",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-555-9912",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-552-0157",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-555-4987",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥 코스요리",
+    "address": "",
+    "phone": "051-554-0331",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물 보쌈 등 한식",
+    "address": "",
+    "phone": "051-556-9911",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "쭈꾸미두루치기",
+    "address": "",
+    "phone": "051-557-7373",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비",
+    "address": "",
+    "phone": "051-555-4757",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-556-5600",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "온천장역",
+    "name": "",
+    "category": "한식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-557-7711",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "율리역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-361-0608",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "조개구이 생선회",
+    "address": "",
+    "phone": "051-243-1146",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회(하모회)",
+    "address": "",
+    "phone": "051-242-1886",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-248-6883",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "게낙찜",
+    "address": "",
+    "phone": "051-253-8777",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-244-6143",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어정식",
+    "address": "",
+    "phone": "051-243-5083",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살",
+    "address": "",
+    "phone": "051-254-7639",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-246-0555",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "참숯불갈비",
+    "address": "",
+    "phone": "051-246-2452",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-253-2212",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-246-3314",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-245-3696",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-245-5075",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-248-7777",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "회비빔밥",
+    "address": "",
+    "phone": "051-245-4995",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-245-1693",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-244-8826",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕 해물찜",
+    "address": "",
+    "phone": "051-244-5003",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-243-8763",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-246-8563",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "족발",
+    "address": "",
+    "phone": "051-246-3039",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "족발",
+    "address": "",
+    "phone": "051-245-5359",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "보신탕",
+    "address": "",
+    "phone": "051-246-9789",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "족발",
+    "address": "",
+    "phone": "051-246-2111",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-245-7572",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "해장국",
+    "address": "",
+    "phone": "051-246-1198",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "돌솥굴비빔밥",
+    "address": "",
+    "phone": "051-246-0790",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-242-5020",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "족발",
+    "address": "",
+    "phone": "051-245-8730",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-246-2248",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "새우장정식 간장게장",
+    "address": "",
+    "phone": "051-245-3320",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-245-5534",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회 초밥",
+    "address": "",
+    "phone": "051-245-7870",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면",
+    "address": "",
+    "phone": "051-245-2310",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부찌개",
+    "address": "",
+    "phone": "051-248-0135",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "자갈치역",
+    "name": "",
+    "category": "양식",
+    "menu": "돈가스",
+    "address": "",
+    "phone": "051-257-8220",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "장림역",
+    "name": "",
+    "category": "양식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-263-6005",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장림역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-262-6100",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "광어 우럭 세꼬시",
+    "address": "",
+    "phone": "051-742-0011",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕 뼈찜해물뼈찜",
+    "address": "",
+    "phone": "051-703-7470",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살돼지갈비양념",
+    "address": "",
+    "phone": "051-701-2489",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "설렁탕&곰탕양지탕",
+    "address": "",
+    "phone": "051-703-0085",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "양식",
+    "menu": "안심스테이크와 바다가재요리",
+    "address": "",
+    "phone": "051-704-0660",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-701-5880",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "오징어회",
+    "address": "",
+    "phone": "051-704-0895",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-703-4848",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "일식",
+    "menu": "광어·가자미 세꼬시",
+    "address": "",
+    "phone": "051-703-7590",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "국밥수육",
+    "address": "",
+    "phone": "051-703-3544",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-701-0006",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우생고기 생갈비",
+    "address": "",
+    "phone": "051-704-6885",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "냉면 갈비탕",
+    "address": "",
+    "phone": "051-703-9955",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살쭈꾸미 닭갈비쭈꾸미",
+    "address": "",
+    "phone": "051-703-3848",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "장산역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-702-1801",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "염소불고기",
+    "address": "",
+    "phone": "051-517-6767",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "염소불고기",
+    "address": "",
+    "phone": "051-517-7900",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-518-1661",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-514-9292",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "족발",
+    "address": "",
+    "phone": "051-582-7060",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-515-0016",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "생삽겹살",
+    "address": "",
+    "phone": "051-581-1153",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비",
+    "address": "",
+    "phone": "051-512-3788",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-518-9200",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "장전역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-518-2849",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비 숯불구이",
+    "address": "",
+    "phone": "051-808-1373",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "한식",
+    "menu": "김치볶음밥",
+    "address": "",
+    "phone": "051-803-1311",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-807-7826",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-918-8000",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지볶음",
+    "address": "",
+    "phone": "051-932-5945",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-817-1988",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부",
+    "address": "",
+    "phone": "051-808-2423",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "전포역",
+    "name": "",
+    "category": "한식",
+    "menu": "옻닭 삼계탕",
+    "address": "",
+    "phone": "051-807-2113",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "종합운동장역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-503-6865",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "종합운동장역",
+    "name": "",
+    "category": "한식",
+    "menu": "정식",
+    "address": "",
+    "phone": "051-503-1802",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "종합운동장역",
+    "name": "",
+    "category": "중식",
+    "menu": "짬뽕",
+    "address": "",
+    "phone": "051-502-6777",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "종합운동장역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살 정식",
+    "address": "",
+    "phone": "051-503-2296",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "종합운동장역",
+    "name": "",
+    "category": "중식",
+    "menu": "중식",
+    "address": "",
+    "phone": "051-507-7762",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "낙지요리 메기탕",
+    "address": "",
+    "phone": "051-313-8882",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비 소갈비",
+    "address": "",
+    "phone": "051-316-9966",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비 유황오리",
+    "address": "",
+    "phone": "051-311-0127",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼겹살 감자탕",
+    "address": "",
+    "phone": "051-315-8227",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "대패삼겹살",
+    "address": "",
+    "phone": "051-313-6866",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰장어구이",
+    "address": "",
+    "phone": "051-314-8506",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-322-4885",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "일식",
+    "menu": "샤브샤브",
+    "address": "",
+    "phone": "051-324-9015",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "주례역",
+    "name": "",
+    "category": "한식",
+    "menu": "찜갈비",
+    "address": "",
+    "phone": "051-316-3455",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰장어 물회 전복죽",
+    "address": "",
+    "phone": "051-743-5400",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "바닷가재 코스요리 대게 코스요리",
+    "address": "",
+    "phone": "051-742-0633",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리훈제녹차생오리",
+    "address": "",
+    "phone": "051-747-4116",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "해물탕수중전골",
+    "address": "",
+    "phone": "051-744-6446",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "양식",
+    "menu": "바닷가재와 안심스테이크",
+    "address": "",
+    "phone": "051-743-6333",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국 복 샤브샤브",
+    "address": "",
+    "phone": "051-743-5291",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "양식",
+    "menu": "스페셜 세트 스테이크",
+    "address": "",
+    "phone": "051-746-6670",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "궁중요리 한정식 코스",
+    "address": "",
+    "phone": "051-731-1100",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "일식",
+    "menu": "모듬회모듬해물",
+    "address": "",
+    "phone": "051-741-8838",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "(소)언양불고기(소)암소갈비",
+    "address": "",
+    "phone": "051-743-6919",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회 점심특선",
+    "address": "",
+    "phone": "051-747-7470",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "손 냄새 돌솥밥솔 냄새 일품밥상",
+    "address": "",
+    "phone": "051-746-8818",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "굴국밥굴탕",
+    "address": "",
+    "phone": "051-747-8892",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "복지리 복매운탕",
+    "address": "",
+    "phone": "051-742-2789",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "일식",
+    "menu": "점심특선 모듬회",
+    "address": "",
+    "phone": "051-743-4222",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비 한우모듬",
+    "address": "",
+    "phone": "051-744-0054",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "생갈비 양념갈비 불고기",
+    "address": "",
+    "phone": "051-746-0033",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "한식",
+    "menu": "등심 갈비살 안창살 안거미",
+    "address": "",
+    "phone": "051-744-1592",
+    "exit": "8"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "일식",
+    "menu": "자연산 생선회 세꼬시 모듬생선회",
+    "address": "",
+    "phone": "051-741-8851",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중동역",
+    "name": "",
+    "category": "카페",
+    "menu": "타르트",
+    "address": "",
+    "phone": "",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "중식",
+    "menu": "자장면 탕수육",
+    "address": "",
+    "phone": "051-245-5305",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "양곱창 갈비 생등심",
+    "address": "",
+    "phone": "051-245-3367",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥 코스요리",
+    "address": "",
+    "phone": "051-246-1225",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-246-0310",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우 전문",
+    "address": "",
+    "phone": "051-241-7999",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "우동",
+    "address": "",
+    "phone": "051-246-8686",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "갈비탕 비빔밥",
+    "address": "",
+    "phone": "051-245-9088",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식 정어리쌈밥",
+    "address": "",
+    "phone": "051-246-8392",
+    "exit": "5"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "황태요리",
+    "address": "",
+    "phone": "051-468-5958",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "고기 된장찌개",
+    "address": "",
+    "phone": "051-466-5550",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "녹차쟁반국수 초계찜",
+    "address": "",
+    "phone": "051-441-9571",
+    "exit": "17"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "고기 만두전골",
+    "address": "",
+    "phone": "051-463-2223",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "장어",
+    "address": "",
+    "phone": "051-462-5758",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "한식",
+    "menu": "꼬리곰탕",
+    "address": "",
+    "phone": "051-469-4409",
+    "exit": "14"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-463-3737",
+    "exit": "13"
+  },
+  {
+    "line": "",
+    "station": "중앙역",
+    "name": "",
+    "category": "양식",
+    "menu": "부페",
+    "address": "",
+    "phone": "051-468-8817",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "지게골역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜 해물찜",
+    "address": "",
+    "phone": "051-638-0102",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "지게골역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-634-7977",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "지게골역",
+    "name": "",
+    "category": "한식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-637-2896",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "초량역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-465-9959",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-526-6490",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-529-9825",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-522-3119",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-529-6969",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-525-0555",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-531-1144",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-525-3412",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "삼계탕",
+    "address": "",
+    "phone": "051-522-1400",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "충렬사역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지갈비돼지삼겹살",
+    "address": "",
+    "phone": "051-527-3788",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-253-1273",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부",
+    "address": "",
+    "phone": "051-245-0315",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "완당",
+    "address": "",
+    "phone": "051-256-3391",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "굴국밥",
+    "address": "",
+    "phone": "051-241-5186",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-244-1112",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-253-3549",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "육회비빔밥",
+    "address": "",
+    "phone": "051-256-9110",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-256-0544",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구수육 아구찜",
+    "address": "",
+    "phone": "051-257-3230",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "송이버섯전골 버섯밥",
+    "address": "",
+    "phone": "051-245-0464",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "토성역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-244-2146",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "꼬리곰탕",
+    "address": "",
+    "phone": "051-324-5552",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국",
+    "address": "",
+    "phone": "051-314-1134",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리탕 오리고기",
+    "address": "",
+    "phone": "051-324-5400",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-313-5111",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-317-3177",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "양념갈비",
+    "address": "",
+    "phone": "051-324-5757",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "오리고기",
+    "address": "",
+    "phone": "051-324-3037",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "곰탕 갈비탕",
+    "address": "",
+    "phone": "051-317-0988",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "쌈밥",
+    "address": "",
+    "phone": "051-208-3342",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-293-5688",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-203-5551",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-204-8231",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "일식",
+    "menu": "참치회",
+    "address": "",
+    "phone": "051-208-3735",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "중식",
+    "menu": "탕수육",
+    "address": "",
+    "phone": "051-208-4455",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-206-7936",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "소고기",
+    "address": "",
+    "phone": "051-293-3335",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "아구찜",
+    "address": "",
+    "phone": "051-271-4567",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "떡갈비",
+    "address": "",
+    "phone": "051-207-7400",
+    "exit": "12"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "양식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-291-0080",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "국수",
+    "address": "",
+    "phone": "051-203-6992",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-204-9090",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부",
+    "address": "",
+    "phone": "051-293-7373",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-208-3313",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕",
+    "address": "",
+    "phone": "051-208-0087",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지국밥",
+    "address": "",
+    "phone": "051-207-3375",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면",
+    "address": "",
+    "phone": "051-207-6369",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-293-6792",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "한우생고기",
+    "address": "",
+    "phone": "051-206-2229",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-206-6994",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "일식",
+    "menu": "칼국수",
+    "address": "",
+    "phone": "051-293-5700",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-293-4959",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "숯불갈비",
+    "address": "",
+    "phone": "051-207-1603",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-208-7388",
+    "exit": "2"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "양식",
+    "menu": "뷔페",
+    "address": "",
+    "phone": "051-293-4500",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "산낙지",
+    "address": "",
+    "phone": "051-203-6900",
+    "exit": "11"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "일식",
+    "menu": "초밥",
+    "address": "",
+    "phone": "051-208-0345",
+    "exit": "9"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "한정식",
+    "address": "",
+    "phone": "051-204-8231",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "한식",
+    "menu": "재첩국",
+    "address": "",
+    "phone": "051-206-4570",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-204-5015",
+    "exit": "10"
+  },
+  {
+    "line": "",
+    "station": "하단역",
+    "name": "",
+    "category": "중식",
+    "menu": "짜장면 우동 등",
+    "address": "",
+    "phone": "051-202-7524",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "가자미찌개가자미조림",
+    "address": "",
+    "phone": "051-743-4944",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "복국 복튀김",
+    "address": "",
+    "phone": "051-742-3600",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "일식",
+    "menu": "자연산 생선회 줄돔광어도다리",
+    "address": "",
+    "phone": "051-741-3888",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비양념생삼겹살갈비찜",
+    "address": "",
+    "phone": "051-747-7575",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-744-5570",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "따로국밥순대국밥수육백반",
+    "address": "",
+    "phone": "051-746-5953",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "양대창구이",
+    "address": "",
+    "phone": "051-746-6080",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "보쌈정식 신토불이 보쌈",
+    "address": "",
+    "phone": "051-731-1441",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "대구탕 대구찜",
+    "address": "",
+    "phone": "051-747-9811",
+    "exit": "7"
+  },
+  {
+    "line": "",
+    "station": "해운대역",
+    "name": "",
+    "category": "한식",
+    "menu": "밀면(대소)비빔(대소)",
+    "address": "",
+    "phone": "051-784-0052",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-362-5556",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "감자탕",
+    "address": "",
+    "phone": "051-331-0622",
+    "exit": "6"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "쌈밥",
+    "address": "",
+    "phone": "051-365-1661",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "소갈비",
+    "address": "",
+    "phone": "051-365-0468",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "돼지생고기 한우",
+    "address": "",
+    "phone": "051-334-5003",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "일식",
+    "menu": "생선회",
+    "address": "",
+    "phone": "051-363-0111",
+    "exit": "1"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "순두부 전골 청국장 찌개류",
+    "address": "",
+    "phone": "051-361-7557",
+    "exit": "3"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "백숙 삼계탕",
+    "address": "",
+    "phone": "051-365-4050",
+    "exit": "4"
+  },
+  {
+    "line": "",
+    "station": "화명역",
+    "name": "",
+    "category": "한식",
+    "menu": "추어탕 미꾸라지튀김",
+    "address": "",
+    "phone": "051-364-0002",
+    "exit": "6"
+  }
+]
